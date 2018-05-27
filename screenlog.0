@@ -353,3 +353,11 @@ remote: Resolving deltas:   0% (0/3)   [Kremote: Resolving deltas:  33% (1/3) 
 To git@github.com:BestDingSheng/git-auto-commit.git
    c213a12..1cf2e29  master -> master
 loop.sh:行7: Already: 未找到命令
+Counting objects: 7, done.
+Compressing objects:  25% (1/4)   Compressing objects:  50% (2/4)   Compressing objects:  75% (3/4)   Compressing objects: 100% (4/4)   Compressing objects: 100% (4/4), done.
+Writing objects:  25% (1/4)   Writing objects:  50% (2/4)   Writing objects:  75% (3/4)   Writing objects: 100% (4/4)   Writing objects: 100% (4/4), 425 bytes | 0 bytes/s, done.
+Total 4 (delta 3), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/3)   [Kremote: Resolving deltas:  33% (1/3)   [Kremote: Resolving deltas:  66% (2/3)   [Kremote: Resolving deltas: 100% (3/3)   [Kremote: Resolving deltas: 100% (3/3), completed with 3 local objects.[K
+To git@github.com:BestDingSheng/git-auto-commit.git
+   1cf2e29..bb971ba  master -> master
+loop.sh:行7: Already: 未找到命令
